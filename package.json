@@ -1,8 +1,18 @@
 {
   "name": "rollup-treeshake-bug",
+  "description": "Test casa for rollup treeshake bug",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Carlo Straccialini",
+    "email": "straccia17@gmail.com"
+  },
+  "homepage": "https://github.com/straccia17/rollup-treeshake-bug",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/straccia17/rollup-treeshake-bug"
+  },
   "devDependencies": {
     "rollup": "^1.12.3"
   },
