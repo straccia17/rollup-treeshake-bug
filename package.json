@@ -1,0 +1,12 @@
+{
+  "name": "rollup-treeshake-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^1.12.3"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  }
+}
